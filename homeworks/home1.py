@@ -1,5 +1,6 @@
 class Home:
-    new = True
+    def __new__(cls, *args, **kwargs):
+        return Home
 
 
 home = Home
