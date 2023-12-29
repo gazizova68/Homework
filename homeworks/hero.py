@@ -28,3 +28,21 @@ hero.printpeople()
 print(hero.__mul__(2))
 print(hero.__len__())
 print(hero.__str__())
+
+
+class EarthHero(SuperHero):
+    def damage(self):
+        print(False)
+
+    def fly(self):
+        print(False)
+
+    def run(self):
+        print('Здоровье героя возведено в квадрат:', int(self.health_points)**2)
+
+
+thanos = EarthHero('Thanos', 'Titan', 'immortality', '168909', 'will destroy this universe', )
+# print(thanos.__mul__(2))
+# print(thanos.__len__())
+# print(thanos.__str__())
+thanos.run()
