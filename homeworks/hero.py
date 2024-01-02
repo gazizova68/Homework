@@ -46,3 +46,4 @@ thanos = EarthHero('Thanos', 'Titan', 'immortality', '168909', 'will destroy thi
 # print(thanos.__len__())
 # print(thanos.__str__())
 thanos.run()
+oiujhyhj
