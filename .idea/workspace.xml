@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62c27fe5-5d04-4763-81fd-e4f8f806e1b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/bank" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/hero.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/hero.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reg.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/task2moons" beforeDir="false" afterPath="$PROJECT_DIR$/task2moons" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task2moons/class1.py" beforeDir="false" afterPath="$PROJECT_DIR$/task2moons/class1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task2moons/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/task2moons/main.py" afterDir="false" />
@@ -30,7 +34,7 @@
         <entry key="$PROJECT_DIR$" value="Medina" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/task2moons" />
     <option name="ROOT_SYNC" value="SYNC" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
@@ -63,7 +67,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Python.hero">
+  <component name="RunManager" selected="Python.hello">
     <configuration name="class1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -198,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hero" />
-        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.hello" />
         <item itemvalue="Python.task" />
         <item itemvalue="Python.class1" />
-        <item itemvalue="Python.hello" />
+        <item itemvalue="Python.hero" />
+        <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +225,9 @@
       <workItem from="1704203959859" duration="32000" />
       <workItem from="1704204240579" duration="9000" />
       <workItem from="1704204250568" duration="3996000" />
-      <workItem from="1704217930170" duration="3918000" />
+      <workItem from="1704217930170" duration="6602000" />
+      <workItem from="1704224908700" duration="1772000" />
+      <workItem from="1704293286688" duration="1560000" />
     </task>
     <servers />
   </component>
@@ -290,12 +296,12 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/homework$home1.coverage" NAME="home1 Coverage Results" MODIFIED="1703860092868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homeworks" />
-    <SUITE FILE_PATH="coverage/homework$task.coverage" NAME="task Coverage Results" MODIFIED="1704218213529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task2moons" />
+    <SUITE FILE_PATH="coverage/homework$task.coverage" NAME="task Coverage Results" MODIFIED="1704224676216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task2moons" />
     <SUITE FILE_PATH="coverage/homework$calc.coverage" NAME="calc Coverage Results" MODIFIED="1703860764854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homeworks" />
     <SUITE FILE_PATH="coverage/homework$hw3.coverage" NAME="hw3 Coverage Results" MODIFIED="1703862221459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homeworks" />
     <SUITE FILE_PATH="coverage/homework$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1704221211033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task2moons" />
-    <SUITE FILE_PATH="coverage/homework$hello.coverage" NAME="hello Coverage Results" MODIFIED="1704218199657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task2moons" />
-    <SUITE FILE_PATH="coverage/homework$hero.coverage" NAME="hero Coverage Results" MODIFIED="1704221900251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homeworks" />
-    <SUITE FILE_PATH="coverage/homework$class1.coverage" NAME="class1 Coverage Results" MODIFIED="1704218207924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task2moons" />
+    <SUITE FILE_PATH="coverage/homework$hello.coverage" NAME="hello Coverage Results" MODIFIED="1704272606520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task2moons" />
+    <SUITE FILE_PATH="coverage/homework$hero.coverage" NAME="hero Coverage Results" MODIFIED="1704222163179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homeworks" />
+    <SUITE FILE_PATH="coverage/homework$class1.coverage" NAME="class1 Coverage Results" MODIFIED="1704224491187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task2moons" />
   </component>
 </project>
